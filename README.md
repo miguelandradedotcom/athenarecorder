@@ -2,4 +2,4 @@
 
 Lightweight screen recorder for Windows.
 
-🌐 [andratek.com.br](https://andratek.com.br)
+🌐 [www.andratek.com.br](https://www.andratek.com)
